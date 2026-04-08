@@ -1,3 +1,11 @@
 fastapi
 uvicorn
+gunicorn
 python-multipart
+librosa
+numpy
+yt-dlp
+scipy
+beautifulsoup4
+requests
+websockets
